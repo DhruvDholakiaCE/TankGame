@@ -1,2 +1,2 @@
 # TankGame
-simple tank game with two tanks made in PyGame.
+Simple tank game with two tanks made in PyGame with sound effects.
